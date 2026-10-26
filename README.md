@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33980547/README.md)
 <!-- glavni naslov -->
 # Računalniški praktikum
 <!-- To je komentar, ki bo na prikazanem Markdownu skrit. 
